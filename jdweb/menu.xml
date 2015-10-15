@@ -1,0 +1,64 @@
+<MainMenus>
+	<Menu Text="家用电器">
+		<subMenu Text="大家电">
+			<Child Text="平板电视"></Child>
+			<Child Text="空调"></Child>
+			<Child Text="冰箱"></Child>
+			<Child Text="洗衣机"></Child>
+			<Child Text="家庭影院"></Child>
+			<Child Text="DVD"></Child>
+			<Child Text="迷你影响"></Child>
+			<Child Text="烟机/灶具"></Child>
+			<Child Text="热水器"></Child>
+			<Child Text="消毒柜/洗碗机"></Child>
+			<Child Text="冷柜/冰吧"></Child>
+			<Child Text="酒柜"></Child>
+			<Child Text="家电配件"></Child>
+		</subMenu>
+        <subMenu Text="大家电">
+            <Child Text="平板电视"></Child>
+            <Child Text="空调"></Child>
+            <Child Text="冰箱"></Child>
+            <Child Text="洗衣机"></Child>
+            <Child Text="家庭影院"></Child>
+            <Child Text="DVD"></Child>
+            <Child Text="迷你影响"></Child>
+            <Child Text="烟机/灶具"></Child>
+            <Child Text="热水器"></Child>
+            <Child Text="消毒柜/洗碗机"></Child>
+            <Child Text="冷柜/冰吧"></Child>
+            <Child Text="酒柜"></Child>
+            <Child Text="家电配件"></Child>
+        </subMenu>
+	</Menu>
+	<Menu Text="手机、数码、京东通信">
+        <subMenu Text="手机通讯">
+            <Child Text="手机"></Child>
+            <Child Text="空调"></Child>
+            <Child Text="手机"></Child>
+            <Child Text="洗衣机"></Child>
+            <Child Text="以旧换新"></Child>
+            <Child Text="以旧换新"></Child>
+            <Child Text="以旧换新"></Child>
+            <Child Text="以旧换新/灶具"></Child>
+            <Child Text="以旧换新"></Child>
+            <Child Text="以旧换新以旧换新/洗碗机"></Child>
+            <Child Text="以旧换新/冰吧"></Child>
+            <Child Text="以旧换新"></Child>
+            <Child Text="以旧换新"></Child>
+        </subMenu>
+	</Menu>
+	<Menu Text="电脑、办公"></Menu>
+	<Menu Text="家居、家具、加装、厨具"></Menu>
+	<Menu Text="男装、女装、内衣、珠宝"></Menu>
+	<Menu Text="个性化妆"></Menu>
+	<Menu Text="鞋靴、箱包、钟表、奢侈品"></Menu>
+	<Menu Text="运动户外"></Menu>
+	<Menu Text="汽车、汽车用品"></Menu>
+	<Menu Text="母婴、玩具乐器"></Menu>
+	<Menu Text="食品、酒类、生鲜、特产"></Menu>
+	<Menu Text="营养保健"></Menu>
+	<Menu Text="图书、音像、电子书"></Menu>
+	<Menu Text="彩票、旅行、充值、票务"></Menu>
+	<Menu Text="理财、重筹、白条、保险"></Menu>
+</MainMenus>

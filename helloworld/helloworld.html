@@ -1,18 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <style type="text/css">
-        h1{
-            color: lightgrey;
-        }
-    </style>
-    <script>
-        document.write("<h1>hello world</h1>");
-    </script>
+
     <meta charset="UTF-8">
     <title>Hello World</title>
 </head>
 <body>
+    <div id="did">
+        <button id="click">click</button>
+        <a href="acfun.tv" id="aid">acfun</a>
+    </div>
+    <script>
+        document.getElementById("click").addEventListener("click",demo);
+        document.getElementById("did").addEventListener("click",function(){
+            alert("div");
+        });
+        document.getElementById("aid").addEventListener("click",demo2);
+        function demo(event){
+            alert(event.type);
+            event.stopPropagation();
 
+        }
+
+        function demo2(event){
+            event.stopPropagation()
+            event.preventDefault();
+        }
+    </script>
 </body>
 </html>
